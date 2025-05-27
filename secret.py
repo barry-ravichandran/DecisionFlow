@@ -1,0 +1,3 @@
+OPENAI_API_KEY = "EMPTY"
+OPENAI_API_BASE = "http://localhost:8000/v1"
+CHATGPT_API = ""
