@@ -155,7 +155,7 @@ We categorize the datasets into two types:
 
 ## 🧪 Experiments
 
-You can final an example using ChatGPT-4o and Qwen2.5-7B-Instruct at [example](example.bash).
+You can final an example using ChatGPT-4o at [example](example.bash).
 ### 🔮 Inference
 
 #### MTA
