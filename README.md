@@ -1,6 +1,10 @@
 # DecisionFlow: Advancing Large Language Model as Principled Decision Maker
 
 DecisionFlow is the code repository for paper "DecisionFlow: Advancing Large Language Model as Principled Decision Maker".
+<p align="center">
+  <a href="https://arxiv.org/abs/"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv(coming soon)'></a>
+  <a href='https://decisionflow-uiuc.github.io/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+</p>
 ![Pipeline for DecisionFlow](./figure/framework.jpg)
 
 ## 🔍 Quick Start
