@@ -210,4 +210,15 @@ python decisionflow_main.py \
 
 ```
 
-<!-- ## 🖊️ Citation -->
+## 🖊️ Citation
+```
+@misc{chen2025decisionflowadvancinglargelanguage,
+      title={DecisionFlow: Advancing Large Language Model as Principled Decision Maker}, 
+      author={Xiusi Chen and Shanyong Wang and Cheng Qian and Hongru Wang and Peixuan Han and Heng Ji},
+      year={2025},
+      eprint={2505.21397},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.21397}, 
+}
+```
