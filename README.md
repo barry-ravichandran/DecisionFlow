@@ -32,7 +32,7 @@ CUDA_VISIBLE_DEVICES=0 vllm serve your-path-to-model --port 8000
 ## 📁 Dataset Overview
 We categorize the datasets into two types:
 
-🏥 MTA (Medical Triage Alignment)
+### 🏥 MTA (Medical Triage Alignment)
 <details>
   <summary><strong>Here is a quick review about agriculture:</strong></summary>
 
@@ -50,7 +50,7 @@ We categorize the datasets into two types:
     High utilitarianism  
 </details> 
 
-🌾 DeLLMa (Decision Making Under Uncertainty with Large Language Models)
+### 🌾 DeLLMa (Decision Making Under Uncertainty with Large Language Models)
 <details>
   <summary><strong>Here is a quick review about agriculture:</strong></summary>
 
