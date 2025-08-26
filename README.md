@@ -11,7 +11,7 @@ DecisionFlow is the code repository for paper "DecisionFlow: Advancing Large Lan
 ## 🚀 Update
 <strong>2025.8.21:</strong> Our paper has been accepted by EMNLP 2025 Findings!
 
-<strong>2025.5.27:</strong> We have published the Arxiv version of DecisionFlow! Click the bottom above to see our paper!
+<strong>2025.5.27:</strong> We have published the Arxiv version of DecisionFlow! Click the buttom above to see our paper!
 
 ## 🔍 Quick Start
 1. Clone the repository
